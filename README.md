@@ -2,11 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/m2gaop?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/m2gaop)
 
-## I'm a student
- 
-I would like to become a fullstack developer JS
-  
-<br />
+
 
 ### Connect with me:
 
@@ -39,7 +35,6 @@ Other:
 
 <br />
 
-<br />
 <br />
 
 ---
