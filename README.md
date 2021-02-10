@@ -1,6 +1,6 @@
-### Hey! I'm M2GA.
+### Hey! I'm Lucas.
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/M2GA?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/m2gaop)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Pablo1610_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Pablo1610_)
 
 ## I'm a student
  
