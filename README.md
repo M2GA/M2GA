@@ -2,7 +2,11 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/m2gaop?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/m2gaop)
 
+## My knowledges
 
+- ⚒️ C++, Just for fun!
+- ⚒️ Html / Css, I mainly use it for web interfaces.
+- ⚒️ Js, To create all kinds of things, ex: discord bots, web application or desktop.
 
 ### Connect with me:
 
