@@ -38,18 +38,8 @@ I would like to become a fullstack developer JS
 
 Other:
 - ⚒️ • My portfolio
-- ⚒️ • 🎭 • [Rubylium's Framework](https://github.com/Rubylium/rFw)
+- ⚒️ • 🎭 • [LeHub](https://github.com/M2GA/Lehub)
 
-FiveM :
-- ✅ • 🎭 [RedSideV6](http://redsiderp.eu/)
-- 🎭 [Greed-Island](https://greedisland.game-srv.com/) 
-- 🎭 Solaria RolePlay 
-
-Minecraft : 
-- ✅ • 🎊 [Rinaorc](https://rinaorc.com/)
-- 🎊 • PoudlardRP
-- 🎊 • LifeCraftV2
-- 🎊 • EvoGames
 <!--END_SECTION:activity-->
 
 
@@ -60,4 +50,4 @@ Minecraft :
 
 ---
 
-[discord]: https://discord.gg/Ksyc97N
+[discord]: https://discord.gg/B5vwQCWhUp
