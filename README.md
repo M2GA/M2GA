@@ -10,9 +10,9 @@ I would like to become a fullstack developer JS
 
 ## My knowledges
 
-- ⚒️ C++, I mainly use it to create Discord bots or plugins in Minecraft (spigot or bungee API).
-- ⚒️ HTML / CSS, used a lot on the FiveM platform to make scripts.
-- ⚒️ JS, used a lot on the FiveM platform to make scripts.
+- ⚒️ C++,Just for fun
+- ⚒️ HTML / CSS, I mainly use it to create web interfaces
+- ⚒️ JS, I mainly use it to create Discord bots
 
 ### Connect with me:
 
