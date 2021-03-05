@@ -3,8 +3,6 @@
 ### Hey! I'm Lucas. 
 [![Twitter Follow](https://img.shields.io/twitter/follow/m2gaop?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/m2gaop)
 
----
-
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=M2GA&count_private=true&show_icons=true?theme=buefy)
 <br />
 
@@ -48,4 +46,5 @@ Other:
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][discord]
 
 ---
+
 [discord]: https://discord.gg/B5vwQCWhUp
