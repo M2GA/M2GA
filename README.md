@@ -1,3 +1,6 @@
+---
+<br>
+
 ### Hey! I'm Lucas.
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/m2gaop?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/m2gaop)
@@ -14,7 +17,6 @@
 
 <br />
 
-<!--START_SECTION:activity-->
 - ✅ • Actual
 - ⚒️ • WiP
 
@@ -22,17 +24,13 @@ Other:
 - ⚒️ • My portfolio
 - ⚒️ • 🎭 • [LeHub](https://github.com/M2GA/Lehub)
 
-<!--START_SECTION:activity-->
 1. 🗣 Commented on [#409](https://github.com/citizenfx/natives/issues/409) in [citizenfx/natives](https://github.com/citizenfx/natives)
 2. 💪 Opened PR [#409](https://github.com/citizenfx/natives/pull/409) in [citizenfx/natives](https://github.com/citizenfx/natives)
 3. ❗️ Opened issue [#16](https://github.com/vscorpio/gta5rpf-to-fivem/issues/16) in [vscorpio/gta5rpf-to-fivem](https://github.com/vscorpio/gta5rpf-to-fivem)
 4. 💪 Opened PR [#13](https://github.com/jaimeadf/discord-screenshot/pull/13) in [jaimeadf/discord-screenshot](https://github.com/jaimeadf/discord-screenshot)
-<!--END_SECTION:activity-->
 
-
-<br />
+<br>
 ### Languages and Tools:
-<br />
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][discord]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][discord]
@@ -51,6 +49,7 @@ Other:
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][discord]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][discord]
 
+<br>
 ---
 
 [discord]: https://discord.gg/B5vwQCWhUp
