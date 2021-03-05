@@ -12,8 +12,7 @@
 
 <br />
 
-🟩 Actual 🟪 Work in Progess 🟥 Personnal Project 🟦 / 🟨 /🟧 /
-
+🟩 Actual 🟪 Work in Progess 🟥 Personnal Project
 <br />
 
 - 🟪 My portfolio
