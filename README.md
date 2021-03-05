@@ -2,18 +2,6 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/m2gaop?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/m2gaop)
 
-## My knowledges
-
-- ⚒️ C++, Just for fun!
-- ⚒️ Html / Css, I mainly use it for web interfaces.
-- ⚒️ Js, To create all kinds of things, ex: discord bots, web application or desktop.
-
-### Connect with me:
-
-[<img align="left" alt="My discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
-
-<br />
-
 ### My favourites programming languages
 
 
@@ -34,6 +22,11 @@ Other:
 - ⚒️ • My portfolio
 - ⚒️ • 🎭 • [LeHub](https://github.com/M2GA/Lehub)
 
+<!--START_SECTION:activity-->
+1. 🗣 Commented on [#409](https://github.com/citizenfx/natives/issues/409) in [citizenfx/natives](https://github.com/citizenfx/natives)
+2. 💪 Opened PR [#409](https://github.com/citizenfx/natives/pull/409) in [citizenfx/natives](https://github.com/citizenfx/natives)
+3. ❗️ Opened issue [#16](https://github.com/vscorpio/gta5rpf-to-fivem/issues/16) in [vscorpio/gta5rpf-to-fivem](https://github.com/vscorpio/gta5rpf-to-fivem)
+4. 💪 Opened PR [#13](https://github.com/jaimeadf/discord-screenshot/pull/13) in [jaimeadf/discord-screenshot](https://github.com/jaimeadf/discord-screenshot)
 <!--END_SECTION:activity-->
 
 
@@ -62,40 +55,3 @@ Other:
 ---
 
 [discord]: https://discord.gg/B5vwQCWhUp
-
-### Hi there, I'm Rubylium 👋
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/Rubylium_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Rubylium_)
-
-## I'm a student Developer !
-
-- 🔭 I’m currently working on a rFw Framework for FiveM!
-- 🌱 I’m currently learning C# / JAVA / JS 🤣
-### Connect with me:
-
-[<img align="left" alt="My discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
-
-<br />
-
-### Latest activity 👋
-
-<br />
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#409](https://github.com/citizenfx/natives/issues/409) in [citizenfx/natives](https://github.com/citizenfx/natives)
-2. 💪 Opened PR [#409](https://github.com/citizenfx/natives/pull/409) in [citizenfx/natives](https://github.com/citizenfx/natives)
-3. ❗️ Opened issue [#16](https://github.com/vscorpio/gta5rpf-to-fivem/issues/16) in [vscorpio/gta5rpf-to-fivem](https://github.com/vscorpio/gta5rpf-to-fivem)
-4. 💪 Opened PR [#13](https://github.com/jaimeadf/discord-screenshot/pull/13) in [jaimeadf/discord-screenshot](https://github.com/jaimeadf/discord-screenshot)
-<!--END_SECTION:activity-->
-
-
-<br />
-
-
-<br />
-<br />
-
----
-
-[discord]: https://discord.gg/CzEm8sP
-
