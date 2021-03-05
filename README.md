@@ -1,8 +1,6 @@
 ---
 
-### Hey! I'm Lucas.
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/m2gaop?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/m2gaop)
+### Hey! I'm Lucas. [![Twitter Follow](https://img.shields.io/twitter/follow/m2gaop?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/m2gaop)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=M2GA&count_private=true&show_icons=true?theme=buefy)
 <br />
