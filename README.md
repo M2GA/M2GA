@@ -2,7 +2,9 @@
 
 ### Hey! I'm Lucas. 
 
-[![forthebadge](https://forthebadge.com/images/badges/uses-js.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/uses-js.svg)](https://forthebadge.com) 
+[![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com) 
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/m2gaop?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/m2gaop)
 
