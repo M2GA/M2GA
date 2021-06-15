@@ -4,7 +4,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/m2gaop?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/m2gaop)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api/pin?username=M2GA&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api/?username=M2GA&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 <br />
 
 <!-- https://github-readme-stats.vercel.app/api?username=M2GA&count_private=true&show_icons=true?theme=buefy -->
