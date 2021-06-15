@@ -1,19 +1,13 @@
 ---
 
 ### Hey! I'm Lucas.
-<p>
-    
-    <a href="https://a.paddle.com/v2/click/16413/119403?link=1227">
-      <img src="https://img.shields.io/badge/Supported%20by-VSCode%20Power%20User%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
-    </a>
-  </p>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/m2gaop?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/m2gaop)
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api/?username=M2GA&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-<br />
-
-<!-- https://github-readme-stats.vercel.app/api?username=M2GA&count_private=true&show_icons=true?theme=buefy -->
+<a href="https://twitter.com/m2gaop">
+  <img src="https://img.shields.io/badge/twitter-@m2gaop-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
+</a>
+<a href="https://discord.gg/B5vwQCWhUp">
+  <img src="https://img.shields.io/badge/DISCORD-discord.gg/B5vwQCWhUp-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/>
+</a>
 
 ### My projets
 
@@ -23,10 +17,9 @@
 <br />
 
 - 🟪 My portfolio
-- 🟩 Pz Core
-- 🟩 FiveM Koth FR
-- 🟥 Write code on line #103 in [LeHub](https://github.com/M2GA/Lehub)
-- 🟥 Resource FiveM [AltUI](https://github.com/M2GA/AltUI)
+- 🟩🟪🟥 FiveM Koth Remasted
+- 🟪🟥 Write code on line #103 in [LeHub](https://github.com/M2GA/Lehub)
+- 🟪🟥 Resource FiveM [AltUI](https://github.com/M2GA/AltUI)
 
 <br />
 
